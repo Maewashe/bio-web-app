@@ -1,0 +1,33 @@
+/* CSS code */
+body {
+    /* background: #7D6B91; */
+    background: #7D6B91;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    border: 9px;
+    font: bold;
+}
+h1 {
+  font-size: large;
+}
+p {
+  font-size: small;
+}
+.profile-img {
+  width: 50%;
+  border-radius: 50%
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.btn {
+  display: block;
+  color: lightpink;
+  padding: 20px;
+  background: linen;
+
+margin: 16px;
+box-shadow: 10px 10px;
+}
